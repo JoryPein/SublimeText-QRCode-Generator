@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Generate eQrcode And Open",
+        "command": "generate_qrcode_and_open"
+    }
+]
